@@ -4,7 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2026
 
 <span style="color:red">NEWS</span>
 ---------------------
-- 16 March: Homework 1 is available at KLMS. Lecture note is available on the website [link](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf).
+- 16 March: Homework 1 is available at KLMS. Lecture note is available on the website: [link](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf).
 
 LOGISTICS
 ---------------------
@@ -51,9 +51,9 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
   - Approximation Algorithms, Vijay Vazirani, Springer 2001 https://link.springer.com/book/10.1007/978-3-662-04565-7
 
   References.
-  - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Free online](https://diestel-graph-theory.com/)
-  - The design of Approximation Algorithms, David P. Williamson, David B. Shmoys, Cambridge University Press 2011. [Free online](https://www.designofapproxalgs.com/).
-  - Lecture Note for CS 583: Approximation Algorithms, Chandra Chekuri, [Free online](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
+  - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Available online](https://diestel-graph-theory.com/)
+  - The design of Approximation Algorithms, David P. Williamson, David B. Shmoys, Cambridge University Press 2011. [Available online](https://www.designofapproxalgs.com/).
+  - Lecture Note for CS 583: Approximation Algorithms, Chandra Chekuri, [Available online](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
  
 Course Plan (liable to be adjusted) - the main material for all lectures is the lecture note. 
 ------------
