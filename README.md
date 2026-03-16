@@ -81,6 +81,6 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 27 May: More on cut problems. LP-based rounding. 
 - 1 June: LP-based rounding. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
 - 3 June: No lecture. Election day.
-- 8 June: Primal-dual method. Homework 4 out. Chapter 7.3 from Williamson and Shmoys and chapter 13.1 from Vazirani. 
+- 8 June: Primal-dual method. Chapter 7.3 from Williamson and Shmoys and chapter 13.1 from Vazirani. 
 - 10 June: Primal-dual method. Chapter 7.4 from Williamson and Shmoys, chapter 18 from Vazirani.
 - 15-19 June: Final exam period. 
