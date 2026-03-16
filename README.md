@@ -46,8 +46,8 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
 
   Main Material
   - Lecture Note, Eunjung Kim. [Available online](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf).
-  - Parameterized Algorithms, Marek Cygan, Fedor V. Fomin, Lukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk and Saket Saurabh, Springer 2015, https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf
-  - Approximation Algorithms, Vijay Vazirani, Springer 2001 https://link.springer.com/book/10.1007/978-3-662-04565-7
+  - Parameterized Algorithms, Marek Cygan, Fedor V. Fomin, Lukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk and Saket Saurabh, Springer 2015, [Available online](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf).
+  - Approximation Algorithms, Vijay Vazirani, Springer 2001, [Available online](https://link.springer.com/book/10.1007/978-3-662-04565-7).
 
   References.
   - Exact Exponential Algorithms, Fedor Fomin and Dieter Kratsch, Springer 2010, [Available online](https://link.springer.com/book/10.1007/978-3-642-16533-7).
