@@ -12,8 +12,8 @@ LOGISTICS
 - Lecture Room: 1101 in Building E3-1
   
 - Teaching Assistans
--- Seokbeom Kim (seokbeom@kaist.ac.kr)
--- Jemin Hwang (hwangjemin@kaist.ac.kr)
+  - Seokbeom Kim (seokbeom@kaist.ac.kr)
+  - Jemin Hwang (hwangjemin@kaist.ac.kr)
 
 - Office hour with the lecturer: after each lecture or upon arrangement.
 
