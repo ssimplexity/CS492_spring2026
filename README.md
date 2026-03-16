@@ -11,7 +11,13 @@ LOGISTICS
 - Lecturer: Eunjung KIM, eunjung.kim@kaist.ac.kr
 - Lecture Room: 1101 in Building E3-1
   
+- Teaching Assistans
+-- Seokbeom Kim (seokbeom@kaist.ac.kr)
+-- Jemin Hwang (hwangjemin@kaist.ac.kr)
 
+- Office hour with the lecturer: after each lecture or upon arrangement.
+
+- Office hour with the TAs: 16:30-17:30, Office 307 at KRAFTON x SoC building.
   
 - Schedule: 
   - On-site lectures, Monday and Wednesday 9:00-10:30.
