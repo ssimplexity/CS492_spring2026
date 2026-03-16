@@ -4,7 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2026
 
 <span style="color:red">NEWS</span>
 ---------------------
-- 16 March: Homework 1 is available at KLMS. Lecture note is available on the website.
+- 16 March: Homework 1 is available at KLMS. Lecture note is available on the website [link](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf).
 
 LOGISTICS
 ---------------------
