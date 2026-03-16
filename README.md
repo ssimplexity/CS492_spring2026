@@ -17,7 +17,7 @@ LOGISTICS
 
 - Office hour with the lecturer: after each lecture or upon arrangement.
 
-- Office hour with the TAs: 16:30-17:30, Office 307 at KRAFTON x SoC building.
+- Office hour with the TAs: 16:30-17:30 Thursday, Office 307 at KRAFTON x SoC building.
   
 - Schedule: 
   - On-site lectures, Monday and Wednesday 9:00-10:30.
