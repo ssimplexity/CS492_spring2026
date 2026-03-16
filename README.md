@@ -74,13 +74,13 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 4 May: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
 - 6 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al. 
 - 11 May: Introduction to approximation algorithms. Chapter 3 from Vazirani. Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
-- 13 May: Layering technique. Chapter 2.2 and 6 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). 
-- 18 May: Approximation for cut problems. Chapter 4 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
-- 20 May: Approximation for cut problems. LP-based rounding. Chapter 12 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
+- 13 May: Layering technique. Chapter 2.2 and 6 from Vazirani. 
+- 18 May: Approximation for cut problems. Chapter 4 from Vazirani.
+- 20 May: Approximation for cut problems. LP-based rounding. Chapter 12 from Vazirani.
 - 25 May: No lecture. Public holiday. 
 - 27 May: More on cut problems. LP-based rounding. 
-- 1 June: LP-based rounding. Chapter 1.7 and 5.1-5.5 from [Williamson and Shmoys](https://www.designofapproxalgs.com/).
+- 1 June: LP-based rounding. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
 - 3 June: No lecture. Election day.
-- 8 June: Primal-dual method. Homework 4 out. Chapter 7.3 from [Williamson and Shmoys](https://www.designofapproxalgs.com/) and chapter 13.1 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). 
-- 10 June: Primal-dual method. Chapter 7.4 from [Williamson and Shmoys](https://www.designofapproxalgs.com/), chapter 18 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
+- 8 June: Primal-dual method. Homework 4 out. Chapter 7.3 from Williamson and Shmoys and chapter 13.1 from Vazirani. 
+- 10 June: Primal-dual method. Chapter 7.4 from Williamson and Shmoys, chapter 18 from Vazirani.
 - 15-19 June: Final exam period. 
