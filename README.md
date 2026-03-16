@@ -50,7 +50,7 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
   - Approximation Algorithms, Vijay Vazirani, Springer 2001 https://link.springer.com/book/10.1007/978-3-662-04565-7
 
   References.
-  - Exact Exponential Algorithms, Fedor Fomin and Dieter Kratsch, Springer 2010, https://link.springer.com/book/10.1007/978-3-642-16533-7
+  - Exact Exponential Algorithms, Fedor Fomin and Dieter Kratsch, Springer 2010, [Available online](https://link.springer.com/book/10.1007/978-3-642-16533-7).
   - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Available online](https://diestel-graph-theory.com/).
   - The design of Approximation Algorithms, David P. Williamson, David B. Shmoys, Cambridge University Press 2011. [Available online](https://www.designofapproxalgs.com/).
   - Lecture Note for CS 583: Approximation Algorithms, Chandra Chekuri, [Available online](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
