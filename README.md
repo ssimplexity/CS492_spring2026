@@ -49,7 +49,7 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
   - Parameterized Algorithms, Marek Cygan, Fedor V. Fomin, Lukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk and Saket Saurabh, Springer 2015, [Available online](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf).
   - Approximation Algorithms, Vijay Vazirani, Springer 2001, [Available online](https://link.springer.com/book/10.1007/978-3-662-04565-7).
 
-  References.
+  Supplementary.
   - Exact Exponential Algorithms, Fedor Fomin and Dieter Kratsch, Springer 2010, [Available online](https://link.springer.com/book/10.1007/978-3-642-16533-7).
   - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Available online](https://diestel-graph-theory.com/).
   - The design of Approximation Algorithms, David P. Williamson, David B. Shmoys, Cambridge University Press 2011. [Available online](https://www.designofapproxalgs.com/).
