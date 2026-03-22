@@ -59,15 +59,12 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 ------------
 - 4, 9, 11 March: Introduction. Branching-based algorithm. Chapter 3.1-3.4 from Cygan et al.
 - 16 March:  Kernelization for Vertex Cover, crown decomposition. Chapter 2.1-2.3 from Cygan et al.
-- 18 March: Quadratic kernel for Feedback Vertex Set. Chapter 9.1 from Cygan et al.
-- 23 March: Interative compression. Chapter 4.1, 4.3 from Cygan et al.
-- 25 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al.
-- 30 March: Tree-decomposition I. Chapter 7.1-7.2 from Cygan et al.
-- 1 April: Tree-decomposition II. Chapter 7.3 from Cygan et al.
-- 6 April: Tree-decomposition III. Chapter 7.4, 7.6 from Cygan et al. 
-- 8 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
-- 13 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
-- 15 April: (buffer)
+- 18, 23 March: Quadratic kernel for Feedback Vertex Set. Chapter 9.1 from Cygan et al.
+- 25 March: Interative compression. Chapter 4.1, 4.3 from Cygan et al.
+- 30 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al.
+- 1, 6, 8 March: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
+- 13 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
+- 15 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - 20-24 April: Mid-term exam period. 
 - 27 April: Mid-term exam revision.
 - 29 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
