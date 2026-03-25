@@ -60,7 +60,7 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 4, 9, 11 March: Introduction. Branching-based algorithm. Chapter 3.1-3.4 from Cygan et al.
 - 16 March:  Kernelization for Vertex Cover, crown decomposition. Chapter 2.1-2.3 from Cygan et al.
 - 18, 23 March: Quadratic kernel for Feedback Vertex Set. Chapter 9.1 from Cygan et al.
-- 25 March: Interative compression. Chapter 4.1, 4.3 from Cygan et al.
+- 25 March: Quadratic kernel for Feedback Vertex Set continues. Interative compression. Chapter 4.1, 4.3 from Cygan et al.
 - 30 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al.
 - 1, 6, 8 March: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
 - 13 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
