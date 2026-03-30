@@ -64,7 +64,8 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 18, 23 March: Quadratic kernel for Feedback Vertex Set. Chapter 9.1 from Cygan et al.
 - 25 March: Quadratic kernel for Feedback Vertex Set continues. Interative compression. Chapter 4.1, 4.3 from Cygan et al.
 - 30 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al.
-- 1, 6, 8 March: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
+- 1 April: Randomized technique for FPT algorithm continues.
+- 6, 8 April: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
 - 13 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
 - 15 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - 20-24 April: Mid-term exam period. 
