@@ -4,6 +4,8 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2026
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 30 March: Midterm exam will take place on 18th April (Saturday), from 9am till 5pm at Room 1101 in E3-1. Feel free to bring notes on at most 3 sheets of A4 paper. No electronic device allowed during the exam. 
+You can bring snacks and beverages, as long as they don’t make too much noise. 
 - 16 March: Homework 1 is available at KLMS. Lecture note is available on the website: [link](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf).
 
 LOGISTICS
