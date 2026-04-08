@@ -66,13 +66,12 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 25 March: Quadratic kernel for Feedback Vertex Set continues. Interative compression. Chapter 4.1, 4.3 from Cygan et al.
 - 30 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al.
 - 1 April: Randomized technique for FPT algorithm continues.
-- 6, 8 April: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
-- 13 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
-- 15 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
+- 6, 8, 13 April: Tree-decomposition. Chapter 7.1-7.4, 7.6 from Cygan et al.
+- 15 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al.
 - 20-24 April: Mid-term exam period. 
-- 27 April: Mid-term exam revision.
-- 29 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
-- 4 May: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
+- 27 April: Mid-term exam revision (or more IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7))
+- 29 April: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
+- 4 May: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - 6 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al. 
 - 11 May: Introduction to approximation algorithms. Chapter 3 from Vazirani. Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
 - 13 May: Layering technique. Chapter 2.2 and 6 from Vazirani. 
