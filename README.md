@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2026
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 15 April: The old lecture note contains an error in the presentation of Steiner Tree algorithm using DP. A correct version is now uploaded.
 - 6 April: Please bring lunch to the exam. You can have lunch between 12h-13h during the exam; you can use the lounge next to the classroom for lunch.
 - 30 March: Midterm exam will take place on 18th April (Saturday), from 9am till 5pm at Room 1101 in E3-1. Feel free to bring notes on at most 3 sheets of A4 paper. No electronic device allowed during the exam. 
 You can bring snacks and beverages, as long as they don’t make too much noise. 
