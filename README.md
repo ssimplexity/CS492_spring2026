@@ -74,12 +74,12 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 29 April: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
 - 4 May: Algorithms for k-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7). (S)ETH-based lower bound. Chapter 14 from Cygan et al. (not in detail).
 - 6 May: Introduction to approximation algorithms. Chapter 3 from Vazirani. Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
-- 11 May: Greedy for Set Cover and Max Coverage. Layering technique. Chapter 2.2 and 6 from Vazirani. 
-- 13 May: Approximation for cut problems. Chapter 4 from Vazirani.
+- 11 May: Greedy for Set Cover and Max Coverage. Layering technique for weighted VC. Chapter 2.2 and 6 from Vazirani. 
+- 13 May: Layering technique for weighted FVS. Chapter 2.2 and 6 from Vazirani. Approximation for cut problems. Chapter 4 from Vazirani.
 - 18 May: Approximation for cut problems. LP-based rounding. Chapter 12 from Vazirani.
-- 20 May: More on cut problems. LP-based rounding. 
+- 20 May: No lecture. Interview for Graduate school admission. 
 - 25 May: No lecture. Public holiday. 
-- 27 May: LP-based rounding. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
+- 27 May: More on cut problems. LP-based rounding. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
 - 1 June: Primal-dual method. Chapter 7.3 from Williamson and Shmoys, and Chapter 13.1 from Vazirani. 
 - 3 June: No lecture. Election day.
 - 8 June: Primal-dual method. Chapter 7.4 from Williamson and Shmoys, and Chapter 18 from Vazirani.
