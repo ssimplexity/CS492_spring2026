@@ -77,11 +77,11 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 6 May: Introduction to approximation algorithms. Chapter 3 from Vazirani. Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
 - 11 May: Greedy for Set Cover and Max Coverage. Layering technique for weighted VC. Chapter 2.2 and 6 from Vazirani. 
 - 13 May: Layering technique for weighted VC continues. Layering technique for weighted FVS. Chapter 2.2 and 6 from Vazirani. 2(-2/k)-approximation for Edge Multiway Cut. Chapter 4 from Vazirani.
-- 18 May: Gomory-Hu tree and 2(-2/k)-approximation for k-way Cut. LP-based rounding. Chapter 12 from Vazirani.
+- 18 May: Gomory-Hu tree and 2(-2/k)-approximation for k-way Cut. LP-based rounding for VC. Chapter 12 from Vazirani.
 - 20 May: No lecture. Interview for Graduate school admission. 
 - 25 May: No lecture. Public holiday. 
-- 27 May: LP-based rounding (More on cut problems). Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
-- 1 June: LP-based rounding (More on cut problems). Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
+- 27 May: LP-based rounding for cut problems. 
+- 1 June: LP-based rounding for Set Cover, Max Sat, Uncapacitated Facility Location. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
 - 3 June: No lecture. Election day.
 - 8 June: Primal-dual method. Chapter 7.3 from Williamson and Shmoys, and Chapter 13.1 from Vazirani. 
 - 10 June: Primal-dual method. Chapter 7.4 from Williamson and Shmoys, and Chapter 18 from Vazirani.
