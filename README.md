@@ -81,7 +81,7 @@ Course Plan (liable to be adjusted) - the main material for all lectures is the 
 - 20 May: No lecture. Interview for Graduate school admission. 
 - 25 May: No lecture. Public holiday. 
 - 27 May: LP-based rounding for cut problems. 
-- 1 June: LP-based rounding for more cut problems, Set Cover, Max Sat, Max Cut. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
+- 1 June: LP-based rounding for more cut problems. Chapter 1.7 and 5.1-5.5 from Williamson and Shmoys.
 - 3 June: No lecture. Election day.
 - 8 June: Primal-dual method. Chapter 7.3 from Williamson and Shmoys, and Chapter 13.1 from Vazirani. 
 - 10 June: Primal-dual method. Chapter 7.4 from Williamson and Shmoys, and Chapter 18 from Vazirani.
